@@ -133,20 +133,19 @@ Industrial-IoT-Predictive-Maintenance-Dashboard
 
 ## Executive Dashboard
 
-*(Insert Dashboard_Overview.jpg here after uploading to GitHub)*
+![Executive Dashboard](Images/Dashboard_Overview.jpg)
 
 ---
 
 ## Machine Health Dashboard
 
-*(Insert Machine_Health.jpg here)*
+![Machine Health Dashboard](Images/Machine_Health.jpg)
 
 ---
 
 ## Predictive Maintenance Dashboard
 
-*(Insert Predictive_Maintenance.jpg here)*
-
+![Predictive Maintenance Dashboard](Images/Predictive_Maintenance.jpg)
 ---
 
 # 📊 Business Insights
