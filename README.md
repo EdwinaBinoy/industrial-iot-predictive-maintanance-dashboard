@@ -209,6 +209,6 @@ Passionate about transforming data into actionable business insights through int
 
 ## 📬 Connect With Me
 
-**LinkedIn:** *(Add your LinkedIn profile URL here)*
+**LinkedIn:** *https://www.linkedin.com/in/edwina-binoy/*
 
 **GitHub:** https://github.com/EdwinaBinoy
